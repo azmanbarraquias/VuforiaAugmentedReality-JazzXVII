@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <CylinderTarget name="TuroAghamCylinderTarget" sideLength="24.000000"/>
+        <ImageTarget name="TuroAghamWeatherTarget" size="12.000000 8.409860"/>
+        <ImageTarget name="VuforiaOxygen" size="7.000000 12.021739"/>
+        <ImageTarget name="VuforiaFissure" size="7.000000 11.922662"/>
+        <ImageTarget name="VuforiaDrone" size="7.000000 11.985612"/>
+        <ImageTarget name="VuforiaAstronaut" size="7.000000 12.078182"/>
+        <ImageTarget name="VuforiaMarsBox.Left" size="256.000000 682.500000"/>
+        <ImageTarget name="VuforiaMarsBox.Right" size="256.000000 682.500000"/>
+        <ImageTarget name="VuforiaMarsBox.Front" size="512.000000 682.000000"/>
+        <ImageTarget name="VuforiaMarsBox.Back" size="512.000000 682.000000"/>
+        <ImageTarget name="VuforiaMarsBox.Bottom" size="512.000000 256.000000"/>
+        <ImageTarget name="VuforiaMarsBox.Top" size="512.000000 256.000000"/>
+        <MultiTarget name="VuforiaMarsBoxMultiTarget">
+            <Part name="VuforiaMarsBox.Left" translation="-256.0 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="VuforiaMarsBox.Right" translation="256.0 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="VuforiaMarsBox.Front" translation="0 0 128.0" rotation="AD: 1 0 0 0"/>
+            <Part name="VuforiaMarsBox.Back" translation="0 0 -128.0" rotation="AD: 0 1 0 180"/>
+            <Part name="VuforiaMarsBox.Top" translation="0 341.0 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="VuforiaMarsBox.Bottom" translation="0 -341.0 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

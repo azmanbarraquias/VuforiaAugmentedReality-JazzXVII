@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-05-15T07:07:56Z" name="PokemonBlue" targetId="a022ca37323745b78c60b8866cae58cb" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-05-15T07:14:00Z" name="LuckyFrog" targetId="e3c6d45c60564ecbb16de4a0ab0432ee" version="2.0" />
+  </TargetSet>
+</QCARInfo>

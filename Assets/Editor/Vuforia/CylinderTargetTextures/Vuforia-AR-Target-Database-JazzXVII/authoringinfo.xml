@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="TuroAghamCylinderTarget" version="3.0" targetId="5f07d0c29daa4cdf94c6dab42a384ecc" sideLength="24.000000" topDiameter="7.433100" bottomDiameter="7.643100" sideImage="TuroAghamCylinderTarget.Body_scaled.jpg" topImage="TuroAghamCylinderTarget.Top_scaled.jpg" bottomImage="TuroAghamCylinderTarget.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
